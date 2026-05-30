@@ -364,9 +364,8 @@
     "name": "🔞鲨鱼资源",
     "baseUrl": "https://shayuapi.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 102,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "semao",
@@ -374,7 +373,7 @@
     "baseUrl": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 106,
+    "priority": 107,
     "_comment": "搜索无结果"
   },
   {
@@ -383,7 +382,7 @@
     "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "接口解析错误"
   },
   {
@@ -392,7 +391,7 @@
     "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "接口解析错误"
   },
   {
