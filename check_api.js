@@ -8,7 +8,7 @@ const REPORT_PATH = path.join(__dirname, "report.md");
 const ADULT_JSON_PATH = path.join(__dirname, "adult.json");
 const LITE_JSON_PATH = path.join(__dirname, "lite.json");
 
-const SEARCH_KEYWORD = process.argv[2] || "斗罗大陆";
+const SEARCH_KEYWORD = process.argv[2] || "大陆";
 const TIMEOUT_MS = 10000;
 const CONCURRENT_LIMIT = 5; 
 const MAX_RETRY = 2;
