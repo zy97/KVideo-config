@@ -31,7 +31,7 @@ jobs:
 
       - name: Run Check Script
         run: |
-          SEARCH_KEY="${{ github.event.inputs.api_name || '斗罗大陆' }}"
+          SEARCH_KEY="${{ github.event.inputs.api_name || '大陆' }}"
           node check_api.js "$SEARCH_KEY"
 
       - name: Commit and push changes
