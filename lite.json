@@ -182,5 +182,21 @@
     "group": "normal",
     "enabled": true,
     "priority": 10
+  },
+  {
+    "id": "jyzyapi",
+    "name": "🎬金鹰资源",
+    "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "lziapi",
+    "name": "🎬量子资源",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
   }
 ]
