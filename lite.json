@@ -168,14 +168,6 @@
     "priority": 10
   },
   {
-    "id": "uku",
-    "name": "🎬U酷影视",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
     "id": "huyaapi",
     "name": "🎬虎牙资源",
     "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
