@@ -8,6 +8,14 @@
     "priority": 1
   },
   {
+    "id": "ikun",
+    "name": "🎬iKun资源",
+    "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "dytt",
     "name": "🎬电影天堂",
     "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
@@ -120,17 +128,17 @@
     "priority": 1
   },
   {
-    "id": "ikun",
-    "name": "🎬iKun资源",
-    "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
+    "id": "zuida",
+    "name": "🎬最大资源",
+    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
   },
   {
-    "id": "zuida",
-    "name": "🎬最大资源",
-    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
+    "id": "uku",
+    "name": "🎬U酷影视",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
