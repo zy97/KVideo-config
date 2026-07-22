@@ -198,5 +198,13 @@
     "group": "normal",
     "enabled": true,
     "priority": 10
+  },
+  {
+    "id": "lziapi2",
+    "name": "🎬量子资源",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
   }
 ]
