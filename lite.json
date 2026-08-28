@@ -222,13 +222,5 @@
     "group": "normal",
     "enabled": true,
     "priority": 10
-  },
-  {
-    "id": "slapibf",
-    "name": "🎬森林资源",
-    "baseUrl": "https://slapibf.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
   }
 ]
