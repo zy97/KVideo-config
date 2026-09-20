@@ -246,21 +246,5 @@
     "group": "normal",
     "enabled": true,
     "priority": 10
-  },
-  {
-    "id": "ffzyapi2",
-    "name": "🎬非凡资源",
-    "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "ckzy",
-    "name": "🎬CK资源",
-    "baseUrl": "https://ckzy.me/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
   }
 ]

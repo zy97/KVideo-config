@@ -200,6 +200,14 @@
     "priority": 1
   },
   {
+    "id": "senlin",
+    "name": "🔞森林资源",
+    "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "lajiao",
     "name": "🔞辣椒资源",
     "baseUrl": "https://apilj.com/api.php/provide/vod",
@@ -336,14 +344,6 @@
     "priority": 5
   },
   {
-    "id": "senlin",
-    "name": "🔞森林资源",
-    "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "huyaapi",
     "name": "🎬虎牙资源",
     "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
@@ -436,16 +436,18 @@
     "name": "🎬非凡资源",
     "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "ckzy",
     "name": "🎬CK资源",
     "baseUrl": "https://ckzy.me/api.php/provide/vod",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "piaoling",
@@ -453,7 +455,7 @@
     "baseUrl": "https://p2100.net/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 101,
+    "priority": 102,
     "_comment": "超时/宕机"
   },
   {
@@ -462,7 +464,7 @@
     "baseUrl": "http://lbapiby.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 124,
+    "priority": 125,
     "_comment": "超时/宕机"
   },
   {
@@ -471,7 +473,7 @@
     "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 126,
+    "priority": 127,
     "_comment": "搜索无结果"
   },
   {
@@ -1255,7 +1257,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "sewozyapi",
@@ -1327,7 +1329,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "apihjzy",
@@ -1417,7 +1419,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "lbapi9",
