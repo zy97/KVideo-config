@@ -222,29 +222,5 @@
     "group": "normal",
     "enabled": true,
     "priority": 10
-  },
-  {
-    "id": "slapibf",
-    "name": "🎬森林资源",
-    "baseUrl": "https://slapibf.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "jyzyapi2",
-    "name": "🎬金鹰资源",
-    "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "guangsuapi",
-    "name": "🎬光速资源",
-    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
   }
 ]
