@@ -208,9 +208,41 @@
     "priority": 10
   },
   {
+    "id": "hongniuzy2",
+    "name": "🎬紅牛资源",
+    "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
     "id": "lziapi2",
     "name": "🎬量子资源",
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "slapibf",
+    "name": "🎬森林资源",
+    "baseUrl": "https://slapibf.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "jyzyapi2",
+    "name": "🎬金鹰资源",
+    "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "guangsuapi",
+    "name": "🎬光速资源",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
     "group": "normal",
     "enabled": true,
     "priority": 10
