@@ -396,40 +396,45 @@
     "name": "🎬紅牛资源",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "lziapi2",
     "name": "🎬量子资源",
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "slapibf",
     "name": "🎬森林资源",
     "baseUrl": "https://slapibf.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "jyzyapi2",
     "name": "🎬金鹰资源",
     "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "guangsuapi",
     "name": "🎬光速资源",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "ffzyapi2",
@@ -437,7 +442,7 @@
     "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "超时/宕机"
   },
   {
@@ -446,7 +451,7 @@
     "baseUrl": "https://ckzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "超时/宕机"
   },
   {
@@ -455,7 +460,7 @@
     "baseUrl": "https://p2100.net/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 112,
+    "priority": 113,
     "_comment": "超时/宕机"
   },
   {
@@ -951,7 +956,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "vipmv",
@@ -996,7 +1001,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "kudian10",
@@ -1050,7 +1055,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "apilyzy",
