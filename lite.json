@@ -16,14 +16,6 @@
     "priority": 1
   },
   {
-    "id": "maoyan",
-    "name": "🎬猫眼资源",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "liangzi",
     "name": "🎬量子资源",
     "baseUrl": "https://cj.lzcaiji.com/api.php/provide/vod",
@@ -227,30 +219,6 @@
     "id": "jyzyapi2",
     "name": "🎬金鹰资源",
     "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "guangsuapi",
-    "name": "🎬光速资源",
-    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "ffzyapi2",
-    "name": "🎬非凡资源",
-    "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "ckzy",
-    "name": "🎬CK资源",
-    "baseUrl": "https://ckzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 10
