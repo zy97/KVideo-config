@@ -376,14 +376,6 @@
     "priority": 5
   },
   {
-    "id": "shayu",
-    "name": "🔞鲨鱼资源",
-    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 10
-  },
-  {
     "id": "wujinapi",
     "name": "🎬无尽资源",
     "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
@@ -432,12 +424,21 @@
     "priority": 10
   },
   {
+    "id": "shayu",
+    "name": "🔞鲨鱼资源",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "ffzyapi2",
     "name": "🎬非凡资源",
     "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 116,
+    "priority": 117,
     "_comment": "超时/宕机"
   },
   {
@@ -446,7 +447,7 @@
     "baseUrl": "https://ckzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 116,
+    "priority": 117,
     "_comment": "超时/宕机"
   },
   {
