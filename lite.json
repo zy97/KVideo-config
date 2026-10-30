@@ -246,5 +246,61 @@
     "group": "normal",
     "enabled": true,
     "priority": 10
+  },
+  {
+    "id": "dadiapi",
+    "name": "🎬大地",
+    "baseUrl": "https://dadiapi.com/api.php/provide/vod/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "ffzyapi2",
+    "name": "🎬非凡资源",
+    "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "91md",
+    "name": "🎬91md",
+    "baseUrl": "https://91md.me/api.php/provide/vod/from/mdm3u8",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "ckzy",
+    "name": "🎬CK资源",
+    "baseUrl": "https://ckzy.me/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "lbapi9",
+    "name": "🎬乐播资源",
+    "baseUrl": "https://lbapi9.com/api.php/provide/vod/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "xrbsp",
+    "name": "🎬淫水机资源",
+    "baseUrl": "https://www.xrbsp.com/api/json.php",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "gdlsp",
+    "name": "🎬香奶儿资源",
+    "baseUrl": "https://www.gdlsp.com/api/json.php",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
   }
 ]
