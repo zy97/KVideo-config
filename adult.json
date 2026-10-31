@@ -436,56 +436,63 @@
     "name": "🎬大地",
     "baseUrl": "https://dadiapi.com/api.php/provide/vod/at/json",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "ffzyapi2",
     "name": "🎬非凡资源",
     "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "91md",
     "name": "🎬91md",
     "baseUrl": "https://91md.me/api.php/provide/vod/from/mdm3u8",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "ckzy",
     "name": "🎬CK资源",
     "baseUrl": "https://ckzy.me/api.php/provide/vod",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "lbapi9",
     "name": "🎬乐播资源",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod/at/json",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "xrbsp",
     "name": "🎬淫水机资源",
     "baseUrl": "https://www.xrbsp.com/api/json.php",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "gdlsp",
     "name": "🎬香奶儿资源",
     "baseUrl": "https://www.gdlsp.com/api/json.php",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "dbzy",
@@ -1223,7 +1230,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "kekezyapi",
@@ -1250,7 +1257,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "99zy",
@@ -1304,7 +1311,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "kkzy",
@@ -1439,7 +1446,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "lbapiby",
@@ -1520,7 +1527,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "wmcj8",
@@ -1637,7 +1644,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "zycaiji2",
