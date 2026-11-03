@@ -80,6 +80,14 @@
     "priority": 1
   },
   {
+    "id": "subo",
+    "name": "🎬速播资源",
+    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "ryzy",
     "name": "🎬如意资源",
     "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -264,14 +272,6 @@
     "priority": 5
   },
   {
-    "id": "subo",
-    "name": "🎬速播资源",
-    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "jinying",
     "name": "🎬金鹰点播",
     "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
@@ -396,32 +396,36 @@
     "name": "🎬量子资源",
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "slapibf",
     "name": "🎬森林资源",
     "baseUrl": "https://slapibf.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "jyzyapi2",
     "name": "🎬金鹰资源",
     "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "guangsuapi",
     "name": "🎬光速资源",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "naixiang",
@@ -429,7 +433,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 101,
+    "priority": 102,
     "_comment": "接口解析错误"
   },
   {
@@ -438,7 +442,7 @@
     "baseUrl": "https://dadiapi.com/api.php/provide/vod/at/json",
     "group": "normal",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "超时/宕机"
   },
   {
@@ -447,7 +451,7 @@
     "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "超时/宕机"
   },
   {
@@ -456,7 +460,7 @@
     "baseUrl": "https://91md.me/api.php/provide/vod/from/mdm3u8",
     "group": "normal",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "超时/宕机"
   },
   {
@@ -465,7 +469,7 @@
     "baseUrl": "https://ckzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "超时/宕机"
   },
   {
@@ -474,7 +478,7 @@
     "baseUrl": "https://lbapi9.com/api.php/provide/vod/at/json",
     "group": "normal",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "超时/宕机"
   },
   {
@@ -483,7 +487,7 @@
     "baseUrl": "https://www.xrbsp.com/api/json.php",
     "group": "normal",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "超时/宕机"
   },
   {
@@ -492,7 +496,7 @@
     "baseUrl": "https://www.gdlsp.com/api/json.php",
     "group": "normal",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "超时/宕机"
   },
   {
@@ -997,7 +1001,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "vipmv",
@@ -1042,7 +1046,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "kudian10",
@@ -1096,7 +1100,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "apilyzy",
@@ -1177,7 +1181,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "anltv",
@@ -1231,7 +1235,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "kekezyapi",
