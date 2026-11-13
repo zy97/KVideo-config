@@ -64,14 +64,6 @@
     "priority": 1
   },
   {
-    "id": "zuida",
-    "name": "🎬最大资源",
-    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "subo",
     "name": "🎬速播资源",
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
@@ -264,14 +256,6 @@
     "priority": 1
   },
   {
-    "id": "huyaapi",
-    "name": "🎬虎牙资源",
-    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "lziapi",
     "name": "🎬量子资源",
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
@@ -296,25 +280,9 @@
     "priority": 5
   },
   {
-    "id": "jinying",
-    "name": "🎬金鹰点播",
-    "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "uku",
     "name": "🎬U酷影视",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "guangsu",
-    "name": "🎬光速资源",
-    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -332,14 +300,6 @@
     "name": "🔞乐播资源",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "jyzyapi",
-    "name": "🎬金鹰资源",
-    "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
-    "group": "normal",
     "enabled": true,
     "priority": 5
   },
@@ -408,20 +368,67 @@
     "priority": 10
   },
   {
+    "id": "zuida",
+    "name": "🎬最大资源",
+    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "jinying",
+    "name": "🎬金鹰点播",
+    "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
+    "id": "guangsu",
+    "name": "🎬光速资源",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
+    "id": "huyaapi",
+    "name": "🎬虎牙资源",
+    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
+    "id": "jyzyapi",
+    "name": "🎬金鹰资源",
+    "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
     "id": "jyzyapi2",
     "name": "🎬金鹰资源",
     "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
   },
   {
     "id": "guangsuapi",
     "name": "🎬光速资源",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
     "group": "normal",
-    "enabled": true,
-    "priority": 10
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
   },
   {
     "id": "naixiang",
@@ -429,7 +436,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 111,
+    "priority": 112,
     "_comment": "接口解析错误"
   },
   {
@@ -438,7 +445,7 @@
     "baseUrl": "https://dadiapi.com/api.php/provide/vod/at/json",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "超时/宕机"
   },
   {
@@ -447,7 +454,7 @@
     "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "超时/宕机"
   },
   {
@@ -456,7 +463,7 @@
     "baseUrl": "https://91md.me/api.php/provide/vod/from/mdm3u8",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "超时/宕机"
   },
   {
@@ -465,7 +472,7 @@
     "baseUrl": "https://ckzy.me/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "超时/宕机"
   },
   {
@@ -474,7 +481,7 @@
     "baseUrl": "https://lbapi9.com/api.php/provide/vod/at/json",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "超时/宕机"
   },
   {
@@ -483,7 +490,7 @@
     "baseUrl": "https://www.xrbsp.com/api/json.php",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "超时/宕机"
   },
   {
@@ -492,7 +499,7 @@
     "baseUrl": "https://www.gdlsp.com/api/json.php",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "超时/宕机"
   },
   {
@@ -2329,7 +2336,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "rctv",
