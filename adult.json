@@ -112,25 +112,9 @@
     "priority": 1
   },
   {
-    "id": "yutu",
-    "name": "🔞玉兔资源",
-    "baseUrl": "https://apiyutu.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "fanhao",
     "name": "🔞番号资源",
     "baseUrl": "http://fhapi9.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "lsbzy",
-    "name": "🔞-老色逼-",
-    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
     "priority": 1
@@ -328,6 +312,14 @@
     "priority": 5
   },
   {
+    "id": "shayu",
+    "name": "🔞鲨鱼资源",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "huyaapi",
     "name": "🎬虎牙资源",
     "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
@@ -360,9 +352,9 @@
     "priority": 10
   },
   {
-    "id": "shayu",
-    "name": "🔞鲨鱼资源",
-    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
+    "id": "hsck",
+    "name": "🔞黄色仓库",
+    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
     "group": "premium",
     "enabled": true,
     "priority": 10
@@ -416,9 +408,66 @@
     "priority": 10
   },
   {
-    "id": "hsck",
-    "name": "🔞黄色仓库",
-    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
+    "id": "dadiapi",
+    "name": "🎬大地",
+    "baseUrl": "https://dadiapi.com/api.php/provide/vod/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "ffzyapi2",
+    "name": "🎬非凡资源",
+    "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "91md",
+    "name": "🎬91md",
+    "baseUrl": "https://91md.me/api.php/provide/vod/from/mdm3u8",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "ckzy",
+    "name": "🎬CK资源",
+    "baseUrl": "https://ckzy.me/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "lbapi9",
+    "name": "🎬乐播资源",
+    "baseUrl": "https://lbapi9.com/api.php/provide/vod/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "xrbsp",
+    "name": "🎬淫水机资源",
+    "baseUrl": "https://www.xrbsp.com/api/json.php",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "yutu",
+    "name": "🔞玉兔资源",
+    "baseUrl": "https://apiyutu.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "lsbzy",
+    "name": "🔞-老色逼-",
+    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
     "priority": 101,
@@ -430,62 +479,8 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "接口解析错误"
-  },
-  {
-    "id": "dadiapi",
-    "name": "🎬大地",
-    "baseUrl": "https://dadiapi.com/api.php/provide/vod/at/json",
-    "group": "normal",
-    "enabled": false,
-    "priority": 115,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "ffzyapi2",
-    "name": "🎬非凡资源",
-    "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 115,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "91md",
-    "name": "🎬91md",
-    "baseUrl": "https://91md.me/api.php/provide/vod/from/mdm3u8",
-    "group": "normal",
-    "enabled": false,
-    "priority": 115,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "ckzy",
-    "name": "🎬CK资源",
-    "baseUrl": "https://ckzy.me/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 115,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "lbapi9",
-    "name": "🎬乐播资源",
-    "baseUrl": "https://lbapi9.com/api.php/provide/vod/at/json",
-    "group": "normal",
-    "enabled": false,
-    "priority": 115,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "xrbsp",
-    "name": "🎬淫水机资源",
-    "baseUrl": "https://www.xrbsp.com/api/json.php",
-    "group": "normal",
-    "enabled": false,
-    "priority": 115,
-    "_comment": "超时/宕机"
   },
   {
     "id": "gdlsp",
@@ -493,7 +488,7 @@
     "baseUrl": "https://www.gdlsp.com/api/json.php",
     "group": "normal",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "超时/宕机"
   },
   {
@@ -1313,7 +1308,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "kkzy",
@@ -1439,7 +1434,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "mygzycj",
