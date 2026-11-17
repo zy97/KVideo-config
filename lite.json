@@ -112,14 +112,6 @@
     "priority": 1
   },
   {
-    "id": "lziapi",
-    "name": "🎬量子资源",
-    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "iqiyi",
     "name": "🎬-爱奇艺-",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -243,54 +235,6 @@
     "id": "guangsuapi",
     "name": "🎬光速资源",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "dadiapi",
-    "name": "🎬大地",
-    "baseUrl": "https://dadiapi.com/api.php/provide/vod/at/json",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "ffzyapi2",
-    "name": "🎬非凡资源",
-    "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "91md",
-    "name": "🎬91md",
-    "baseUrl": "https://91md.me/api.php/provide/vod/from/mdm3u8",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "ckzy",
-    "name": "🎬CK资源",
-    "baseUrl": "https://ckzy.me/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "lbapi9",
-    "name": "🎬乐播资源",
-    "baseUrl": "https://lbapi9.com/api.php/provide/vod/at/json",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "xrbsp",
-    "name": "🎬淫水机资源",
-    "baseUrl": "https://www.xrbsp.com/api/json.php",
     "group": "normal",
     "enabled": true,
     "priority": 10
