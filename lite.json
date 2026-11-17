@@ -96,28 +96,12 @@
     "priority": 1
   },
   {
-    "id": "360zy2",
-    "name": "🎬360资源",
-    "baseUrl": "https://360zy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "ffzyapi",
     "name": "🎬非凡资源",
     "baseUrl": "https://cj.ffzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 1
-  },
-  {
-    "id": "iqiyi",
-    "name": "🎬-爱奇艺-",
-    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
   },
   {
     "id": "zuida",
@@ -176,6 +160,14 @@
     "priority": 5
   },
   {
+    "id": "lziapi",
+    "name": "🎬量子资源",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "wujinapi",
     "name": "🎬无尽资源",
     "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
@@ -203,38 +195,6 @@
     "id": "hongniuzy2",
     "name": "🎬紅牛资源",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "lziapi2",
-    "name": "🎬量子资源",
-    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "slapibf",
-    "name": "🎬森林资源",
-    "baseUrl": "https://slapibf.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "jyzyapi2",
-    "name": "🎬金鹰资源",
-    "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "guangsuapi",
-    "name": "🎬光速资源",
-    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
     "group": "normal",
     "enabled": true,
     "priority": 10
