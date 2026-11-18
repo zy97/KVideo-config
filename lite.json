@@ -104,6 +104,14 @@
     "priority": 1
   },
   {
+    "id": "iqiyi",
+    "name": "🎬-爱奇艺-",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "zuida",
     "name": "🎬最大资源",
     "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
@@ -128,14 +136,6 @@
     "priority": 5
   },
   {
-    "id": "guangsu",
-    "name": "🎬光速资源",
-    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "hongniu",
     "name": "🎬红牛资源",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
@@ -144,17 +144,9 @@
     "priority": 5
   },
   {
-    "id": "huyaapi",
-    "name": "🎬虎牙资源",
-    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "jyzyapi",
-    "name": "🎬金鹰资源",
-    "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
+    "id": "360zy2",
+    "name": "🎬360资源",
+    "baseUrl": "https://360zy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
@@ -195,6 +187,46 @@
     "id": "hongniuzy2",
     "name": "🎬紅牛资源",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "lziapi2",
+    "name": "🎬量子资源",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "slapibf",
+    "name": "🎬森林资源",
+    "baseUrl": "https://slapibf.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "jyzyapi2",
+    "name": "🎬金鹰资源",
+    "baseUrl": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "dadiapi",
+    "name": "🎬大地",
+    "baseUrl": "https://dadiapi.com/api.php/provide/vod/at/json",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "ffzyapi2",
+    "name": "🎬非凡资源",
+    "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 10
