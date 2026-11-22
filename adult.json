@@ -136,6 +136,14 @@
     "priority": 1
   },
   {
+    "id": "lebo",
+    "name": "🔞乐播资源",
+    "baseUrl": "https://lbapi9.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "senlin",
     "name": "🔞森林资源",
     "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
@@ -304,14 +312,6 @@
     "priority": 5
   },
   {
-    "id": "lebo",
-    "name": "🔞乐播资源",
-    "baseUrl": "https://lbapi9.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "360zy2",
     "name": "🎬360资源",
     "baseUrl": "https://360zy.com/api.php/provide/vod",
@@ -428,54 +428,48 @@
     "name": "🎬大地",
     "baseUrl": "https://dadiapi.com/api.php/provide/vod/at/json",
     "group": "normal",
-    "enabled": false,
-    "priority": 102,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "ffzyapi2",
     "name": "🎬非凡资源",
     "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 102,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "91md",
     "name": "🎬91md",
     "baseUrl": "https://91md.me/api.php/provide/vod/from/mdm3u8",
     "group": "normal",
-    "enabled": false,
-    "priority": 106,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "ckzy",
     "name": "🎬CK资源",
     "baseUrl": "https://ckzy.me/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 106,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "lbapi9",
     "name": "🎬乐播资源",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod/at/json",
     "group": "normal",
-    "enabled": false,
-    "priority": 106,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "xrbsp",
     "name": "🎬淫水机资源",
     "baseUrl": "https://www.xrbsp.com/api/json.php",
     "group": "normal",
-    "enabled": false,
-    "priority": 106,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "naixiang",
@@ -483,7 +477,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 120,
+    "priority": 121,
     "_comment": "接口解析错误"
   },
   {
@@ -492,7 +486,7 @@
     "baseUrl": "https://www.gdlsp.com/api/json.php",
     "group": "normal",
     "enabled": false,
-    "priority": 122,
+    "priority": 123,
     "_comment": "超时/宕机"
   },
   {
@@ -1231,7 +1225,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "kekezyapi",
